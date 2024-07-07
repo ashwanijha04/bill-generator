@@ -1,0 +1,20 @@
+.bill {
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 800px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .company-logo {
+    max-height: 50px;
+    margin-bottom: 10px;
+  }
+  
+  .bill h4 {
+    text-align: right;
+  }
+  
+  .bill p {
+    margin: 0;
+  }
+  

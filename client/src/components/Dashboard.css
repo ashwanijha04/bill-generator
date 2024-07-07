@@ -1,0 +1,12 @@
+.dashboard {
+    padding: 20px;
+  }
+  
+  .dashboard__paper {
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+  }
+  

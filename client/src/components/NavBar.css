@@ -1,0 +1,9 @@
+.nav-toolbar {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .nav-title {
+    flex-grow: 1;
+  }
+  
